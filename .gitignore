@@ -1,0 +1,4 @@
+.micropico
+*.json
+/.vscode
+.code-worksapce
